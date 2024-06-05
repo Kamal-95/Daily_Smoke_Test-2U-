@@ -1,0 +1,343 @@
+1666009803191	geckodriver	INFO	Listening on 127.0.0.1:55744
+1666009806281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilev6zTOl"
+1666009806601	Marionette	INFO	Marionette enabled
+1666009806606	Marionette	INFO	Listening on port 55758
+Read port: 55758
+WebDriver BiDi listening on ws://127.0.0.1:55745
+1666009806733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilev6zTOl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55745/devtools/browser/517378a0-59b0-4d9d-a70e-b091815f838c
+1666009810190	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666009812655	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666009813838	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1666012336858	Marionette	INFO	Stopped listening on port 55758
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilee9Mlov"
+1666009932604	Marionette	INFO	Marionette enabled
+1666009932608	Marionette	INFO	Listening on port 56087
+WebDriver BiDi listening on ws://127.0.0.1:56074
+Read port: 56087
+1666009932804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilee9Mlov\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56074/devtools/browser/de328a1c-22c9-4dd9-aca4-331adf2c4fad
+1666009935864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666009939155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666009948406	Marionette	INFO	Stopped listening on port 56087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666010569045	geckodriver	INFO	Listening on 127.0.0.1:57085
+1666010572093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile1ax3PF"
+1666010572368	Marionette	INFO	Marionette enabled
+1666010572371	Marionette	INFO	Listening on port 57099
+Read port: 57099
+WebDriver BiDi listening on ws://127.0.0.1:57086
+1666010572475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile1ax3PF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57086/devtools/browser/acff3f65-8221-4040-91e5-98e4d60da10d
+1666010575461	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010578761	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010579694	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010618207	Marionette	INFO	Stopped listening on port 57099
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666010687263	geckodriver	INFO	Listening on 127.0.0.1:57602
+1666010690321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile5EsJf0"
+1666010690555	Marionette	INFO	Marionette enabled
+1666010690558	Marionette	INFO	Listening on port 57615
+WebDriver BiDi listening on ws://127.0.0.1:57603
+Read port: 57615
+1666010690775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile5EsJf0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57603/devtools/browser/0bb45bc8-8238-4ae9-b036-a871337a0a90
+1666010693906	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010696528	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010697484	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010727093	Marionette	INFO	Stopped listening on port 57615
+1666010892416	geckodriver	INFO	Listening on 127.0.0.1:58196
+1666010895496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilegGMypt"
+1666010895734	Marionette	INFO	Marionette enabled
+1666010895738	Marionette	INFO	Listening on port 58210
+WebDriver BiDi listening on ws://127.0.0.1:58197
+Read port: 58210
+1666010895954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilegGMypt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58197/devtools/browser/c7ace80a-bbed-400f-a539-6a61bb2c9363
+1666010898801	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010901497	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010902649	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010932589	Marionette	INFO	Stopped listening on port 58210
+1666010971900	geckodriver	INFO	Listening on 127.0.0.1:58683
+1666010974979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofileZ3BFam"
+1666010975220	Marionette	INFO	Marionette enabled
+1666010975225	Marionette	INFO	Listening on port 58701
+Read port: 58701
+WebDriver BiDi listening on ws://127.0.0.1:58684
+1666010975350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofileZ3BFam\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58684/devtools/browser/4f23cd77-13a4-4cfc-992c-c5e7559d56d9
+1666010977895	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010980484	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666010981441	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666011008254	Marionette	INFO	Stopped listening on port 58701
+1666011106061	geckodriver	INFO	Listening on 127.0.0.1:59232
+1666011109144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilewmtsQo"
+1666011109377	Marionette	INFO	Marionette enabled
+1666011109380	Marionette	INFO	Listening on port 59245
+WebDriver BiDi listening on ws://127.0.0.1:59233
+Read port: 59245
+1666011109596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofilewmtsQo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59233/devtools/browser/373b6ccb-6431-4ebf-9d9c-a5d436c0c7c4
+1666011112393	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666011114778	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666011115742	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666011142651	Marionette	INFO	Stopped listening on port 59245
+1666020292705	geckodriver	INFO	Listening on 127.0.0.1:61777
+1666020295778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61778" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile2LKEzP"
+1666020296407	Marionette	INFO	Marionette enabled
+1666020296414	Marionette	INFO	Listening on port 61788
+Read port: 61788
+WebDriver BiDi listening on ws://127.0.0.1:61778
+1666020296585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile2LKEzP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61778/devtools/browser/147c6ff8-ec85-4335-bf4d-fa282a9c6f97
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1666020304869	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666020326866	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666020327862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666020366590	Marionette	INFO	Stopped listening on port 61788
+1666020535754	geckodriver	INFO	Listening on 127.0.0.1:62249
+1666020538837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofileNyI4bP"
+1666020539377	Marionette	INFO	Marionette enabled
+1666020539382	Marionette	INFO	Listening on port 62259
+Read port: 62259
+WebDriver BiDi listening on ws://127.0.0.1:62250
+1666020539569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofileNyI4bP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62250/devtools/browser/9d6979c2-aa10-4c70-88f8-69ab4446d428
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1666020549695	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666020567027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666020568011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666020584785	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666020592586	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666020608132	Marionette	INFO	Stopped listening on port 62259
+1666021754096	geckodriver	INFO	Listening on 127.0.0.1:62980
+1666021757158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile4CszA0"
+1666021757610	Marionette	INFO	Marionette enabled
+1666021757617	Marionette	INFO	Listening on port 62990
+Read port: 62990
+WebDriver BiDi listening on ws://127.0.0.1:62981
+1666021757802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile4CszA0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62981/devtools/browser/33436510-d559-4bea-8439-307a217a88f1
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1666021767839	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666021790982	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666021792169	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666021834171	Marionette	INFO	Stopped listening on port 62990
+1666021855225	geckodriver	INFO	Listening on 127.0.0.1:63302
+1666021858291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofileiNWHrb"
+1666021858683	Marionette	INFO	Marionette enabled
+1666021858690	Marionette	INFO	Listening on port 63312
+Read port: 63312
+WebDriver BiDi listening on ws://127.0.0.1:63303
+1666021858832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofileiNWHrb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63303/devtools/browser/44594708-d200-4d17-81c5-8634b0d428f9
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1666021869375	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666021886962	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666021888167	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666021926848	Marionette	INFO	Stopped listening on port 63312
+1666176634368	geckodriver	INFO	Listening on 127.0.0.1:54934
+1666176637438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile893nfX"
+1666176637666	Marionette	INFO	Marionette enabled
+1666176637669	Marionette	INFO	Listening on port 54944
+WebDriver BiDi listening on ws://127.0.0.1:54935
+Read port: 54944
+1666176637881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile893nfX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54935/devtools/browser/417908b7-a90c-4fa8-afcf-7cf7bff1e7c3
+1666176640410	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666176643238	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666176644424	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.cybersecurity.berkeley.edu."
+1666176684343	Marionette	INFO	Stopped listening on port 54944
+1666176827327	geckodriver	INFO	Listening on 127.0.0.1:55366
+1666176830396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile7dwlwX"
+1666176830629	Marionette	INFO	Marionette enabled
+1666176830632	Marionette	INFO	Listening on port 55377
+WebDriver BiDi listening on ws://127.0.0.1:55367
+Read port: 55377
+1666176830842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAMAL~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile7dwlwX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55367/devtools/browser/1496466b-fe5b-4fc6-84fe-0bab3183202b
+1666176833734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666176836509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+1666176837456	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.datascience.berkeley.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://learn.cybersecurity.berkeley.edu."
+1666176881018	Marionette	INFO	Stopped listening on port 55377
